@@ -1,0 +1,7 @@
+	Model pSilla1("resources/objects/pSilla1/untitled.obj");
+
+		model = glm::translate(glm::mat4(1.0f), glm::vec3(-70.0f, 5.0f, 0.0f));
+		model = glm::rotate(model, glm::radians(180.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+		model = glm::scale(model, glm::vec3(0.05f));
+		staticShader.setMat4("model", model);
+		pSilla1.Draw(staticShader);
