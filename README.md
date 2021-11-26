@@ -1,6 +1,6 @@
 # ProyectoCGEIHC
 
--Padilla Reyes Miguel Ángel
+-Padilla Reyes Miguel Alejandro
 -Ramirez Flores Eslavica Monserrat
 -Valenzuela García de León Fernando Rodrigo
 
